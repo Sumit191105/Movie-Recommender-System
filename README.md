@@ -1,5 +1,4 @@
 
-````markdown
 # 🎬 Movie Recommender System
 
 A simple content-based recommender system using the TMDB 5000 dataset. It suggests similar movies based on genres, overview, cast, crew, and keywords.
